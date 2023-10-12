@@ -2,4 +2,4 @@ Resources:
   MyS3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: s3-sample-bucket
+      BucketName: s3-sample-bucket-for-jenkins
